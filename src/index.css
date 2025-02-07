@@ -8,7 +8,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: url('../src/components/assets/background.jpg');
+  background: url('../src/components/assets/bg.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
